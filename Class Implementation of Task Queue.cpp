@@ -95,8 +95,6 @@ const Task* dequeue(TaskQueue*& queue)
 
 int main(){
 	
-	cout << endl << "Implement some more appropriate tests in main()" << endl << endl;
-	
 	char sampleDescription[] = "sample description";
 
 	Task task1 =
