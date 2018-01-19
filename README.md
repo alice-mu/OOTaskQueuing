@@ -1,4 +1,3 @@
 # O-O-Task-Queuing
 
-
-Programs enqueue and dequeue tasks with linked list and dynamic memory allocation.
+Creating a task queue with task type, description, and ID
